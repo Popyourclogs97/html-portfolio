@@ -1,0 +1,22 @@
+#proud {font-family:"Libre Baskerville", serif;
+  font-size:35px;
+  font-weight: 400;
+  font-style: normal;
+text-transform: uppercase;}
+
+  html {background-color: black;}
+  
+  * {color:white}
+
+img {border: 5px solid white;
+width: 75%;
+margin-top: 15%;
+}
+
+#main {text-align: center;
+width:50%;
+margin-left: 25%;
+}
+
+p {font-size: 20px;}
+

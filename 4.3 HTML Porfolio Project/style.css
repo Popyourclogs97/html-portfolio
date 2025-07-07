@@ -1,0 +1,37 @@
+body
+{background-color: #222831;}
+
+h1 
+{color: #00ADB5;
+font-family:"Dancing Script", cursive;
+text-shadow:    
+    -0.5px -0.5px 0 #000000,
+     0.5px -0.5px 0 #000000,
+    -1px  1px 0 #000000,
+     1px  1px 0 #000000;
+}
+
+
+h2
+{color:#00ADB5;
+text-shadow:
+    -0.5px -0.5px 0 #000000,
+     0.5px -0.5px 0 #000000,
+    -1px  1px 0 #000000,
+     1px  1px 0 #000000;
+
+}
+
+*
+{font-family:"Bebas Neue", sans-serif;
+}
+
+a 
+{color:#00ADB5;
+    display: inline-block;
+     border: 2px solid black;
+     padding: 4px 6px;
+    border-radius: 6px;
+    background-color: #393E46;
+
+}
